@@ -15,4 +15,5 @@ Feature: Test the Sauce Demo application
   Scenario: Validate Pim page
     When user click on pim link
     And user validate pim page by using url
+    And user click on addemployee and enter firstname,lastname and click on save button
    
