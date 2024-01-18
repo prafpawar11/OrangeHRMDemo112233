@@ -16,5 +16,8 @@ Feature: Test the Sauce Demo application
     When user click on pim link
     And user validate pim page by using url
     And user click on addemployee and enter firstname,lastname and click on save button
-    And user capture empid in pim page and user click om empList button link
+  And user capture empid in pim page and user click om empList button link
    
+
+ 
+
